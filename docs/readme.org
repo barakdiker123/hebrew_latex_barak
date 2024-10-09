@@ -1,0 +1,10 @@
+#+title: Readme
+Here There is a short tutorial on writing hebrew latex technical doc
+* Basic Key binding
+- for compiling use "C-c C-c"
+  - The command in elisp is "TeX-command-master"
+- For switching hebrew and english use C-\
+  - The command in elisp is "toggle-input-method"
+
+
+
